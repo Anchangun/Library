@@ -1,7 +1,6 @@
 # Library
 
 Research and Development
-개발 진행 중 
 
 ![issue badge](https://img.shields.io/badge/Language-Java-blue?style=flat&logo=Java)
 ![issue badge](https://img.shields.io/badge/Language-C++-red?style=flat&logo=C++)
