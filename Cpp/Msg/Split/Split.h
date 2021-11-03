@@ -15,5 +15,5 @@ private :
 public :
 	std::vector<std::string> splitRun(std::string origin_msg,char split_point);
 	std::vector<std::string> splitCommaRun(std::string origin_msg);
+	std::vector<std::string> splitAll(std::string origin_msg);
 };
-
